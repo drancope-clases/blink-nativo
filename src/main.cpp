@@ -1,9 +1,7 @@
 #include "tigr.h"
 #include <chrono>
 
-#define AZUL tigrRGB(0x35, 0x75, 0xef)
-#define GRIS tigrRGB(0x33, 0x33, 0x33)
-TPixel color[2] = {AZUL, GRIS};
+TPixel color[2] = {tigrRGB(0x35, 0x75, 0xef), tigrRGB(0x33, 0x33, 0x33)};
 
 bool estado = false;
 
