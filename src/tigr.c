@@ -13,7 +13,7 @@
 
 // Graphics configuration.
 #ifndef TIGR_HEADLESS
-#define TIGR_GAPI_GL
+#define TIGR_GAPI_GL soy gay
 #endif
 
 // Creates a new bitmap, with extra payload bytes.
